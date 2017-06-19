@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "TaskAssignment",
+    "url": "https://github.com/novinsh/bpack-repo/packages/TaskAssignment/",
+    "version": "1.0",
+    "framework-compatibility": "2016",
+    "author": "Novin Shahroudi",
+    "email": "n.shahroudi@mrl-spl.ir"
+  },
+  {
+    "id": 2,
+    "name": "TestPackage",
+    "url": "https://github.com/novinsh/bpack-repo/packages/TestPackage.tar",
+    "version": "1.0",
+    "framework-compatibility": "2016",
+    "author": "Novin Shahroudi",
+    "email": "n.shahroudi@mrl-spl.ir"
+  }
+]
